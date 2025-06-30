@@ -14,3 +14,7 @@ vercel_runtime = "1.1.6"
 [[bin]]
 name = "handler"
 path = "api/handler.rs"
+
+[[bin]]
+name = "balance"
+path = "api/balance.rs"
